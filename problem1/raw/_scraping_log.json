@@ -1,0 +1,312 @@
+{
+  "dept_cse_about": {
+    "url": "https://iitj.ac.in/computer-science-engineering/en/about-department",
+    "status": "too_short",
+    "chars": 43
+  },
+  "dept_cse_research": {
+    "url": "https://iitj.ac.in/computer-science-engineering/en/about-research",
+    "status": "too_short",
+    "chars": 43
+  },
+  "dept_cse_programs": {
+    "url": "https://iitj.ac.in/computer-science-engineering/en/academic-programs",
+    "status": "too_short",
+    "chars": 43
+  },
+  "dept_ee_about": {
+    "url": "https://iitj.ac.in/electrical-engineering/en/about-department",
+    "status": "too_short",
+    "chars": 43
+  },
+  "dept_ee_research": {
+    "url": "https://iitj.ac.in/electrical-engineering/en/about-research",
+    "status": "too_short",
+    "chars": 43
+  },
+  "dept_me_about": {
+    "url": "https://iitj.ac.in/mechanical-engineering/en/about-department",
+    "status": "too_short",
+    "chars": 43
+  },
+  "dept_me_research": {
+    "url": "https://iitj.ac.in/mechanical-engineering/en/about-research",
+    "status": "success",
+    "chars": 808
+  },
+  "dept_chemistry_about": {
+    "url": "https://iitj.ac.in/chemistry/en/about-department",
+    "status": "too_short",
+    "chars": 43
+  },
+  "dept_chemistry_research": {
+    "url": "https://iitj.ac.in/chemistry/en/about-research",
+    "status": "success",
+    "chars": 1916
+  },
+  "dept_physics_about": {
+    "url": "https://iitj.ac.in/physics/en/about-department",
+    "status": "too_short",
+    "chars": 43
+  },
+  "dept_physics_research": {
+    "url": "https://iitj.ac.in/physics/en/about-research",
+    "status": "too_short",
+    "chars": 43
+  },
+  "dept_math_about": {
+    "url": "https://iitj.ac.in/mathematics/en/about-department",
+    "status": "too_short",
+    "chars": 43
+  },
+  "dept_math_research": {
+    "url": "https://iitj.ac.in/mathematics/en/about-research",
+    "status": "too_short",
+    "chars": 43
+  },
+  "dept_bio_about": {
+    "url": "https://iitj.ac.in/bioscience-bioengineering/en/about-department",
+    "status": "too_short",
+    "chars": 43
+  },
+  "dept_bio_research": {
+    "url": "https://iitj.ac.in/bioscience-bioengineering/en/about-research",
+    "status": "success",
+    "chars": 684
+  },
+  "dept_civil_about": {
+    "url": "https://iitj.ac.in/civil-and-infrastructure-engineering/en/about-department",
+    "status": "too_short",
+    "chars": 43
+  },
+  "dept_metallurgy_about": {
+    "url": "https://iitj.ac.in/metallurgical-materials-engineering/en/about-department",
+    "status": "too_short",
+    "chars": 43
+  },
+  "dept_chemical_about": {
+    "url": "https://iitj.ac.in/chemical-engineering/en/about-department",
+    "status": "too_short",
+    "chars": 43
+  },
+  "dept_digital_humanities": {
+    "url": "https://iitj.ac.in/digital-humanities/en/about-department",
+    "status": "too_short",
+    "chars": 43
+  },
+  "dept_digital_humanities_research": {
+    "url": "https://iitj.ac.in/digital-humanities/en/about-research-2",
+    "status": "too_short",
+    "chars": 43
+  },
+  "academics_main": {
+    "url": "https://iitj.ac.in/office-of-academics/en/academics",
+    "status": "success",
+    "chars": 2000
+  },
+  "academic_programs": {
+    "url": "https://iitj.ac.in/office-of-academics/en/academic-programs",
+    "status": "success",
+    "chars": 812
+  },
+  "academic_regulations": {
+    "url": "https://iitj.ac.in/office-of-academics/en/Academic-Regulations",
+    "status": "success",
+    "chars": 103166
+  },
+  "academic_calendar": {
+    "url": "https://iitj.ac.in/office-of-academics/en/academic-calendar",
+    "status": "success",
+    "chars": 1268
+  },
+  "btech_about": {
+    "url": "https://iitj.ac.in/bachelor-of-technology/en/about-faqs",
+    "status": "success",
+    "chars": 1787
+  },
+  "btech_facilities": {
+    "url": "https://iitj.ac.in/bachelor-of-technology/en/academic-research-facilities",
+    "status": "success",
+    "chars": 4091
+  },
+  "pg_admission": {
+    "url": "https://iitj.ac.in/admission-postgraduate-programs/en/Admission-to-Postgraduate-Programs",
+    "status": "success",
+    "chars": 2645
+  },
+  "mtech_admission": {
+    "url": "https://iitj.ac.in/admission-postgraduate-programs/en/Admission-to-M.Tech.-Degree-Programmes,-AY-2025-26?ep=fw",
+    "status": "success",
+    "chars": 1254
+  },
+  "admission_links": {
+    "url": "https://iitj.ac.in/main/en/admission-links",
+    "status": "success",
+    "chars": 826
+  },
+  "research_highlights": {
+    "url": "https://iitj.ac.in/main/en/Research-Highlight",
+    "status": "success",
+    "chars": 1293
+  },
+  "research_development": {
+    "url": "https://iitj.ac.in/office-of-research-development/en/office-of-research-and-development",
+    "status": "success",
+    "chars": 778
+  },
+  "research_about": {
+    "url": "https://iitj.ac.in/office-of-research-development/en/About-Us",
+    "status": "success",
+    "chars": 3605
+  },
+  "ai_ds_research": {
+    "url": "https://iitj.ac.in/school-of-artificial-intelligence-data-science/en/about-research",
+    "status": "success",
+    "chars": 3041
+  },
+  "ai_ds_coes": {
+    "url": "https://iitj.ac.in/school-of-artificial-intelligence-data-science/en/about-coes",
+    "status": "success",
+    "chars": 2501
+  },
+  "cete_research": {
+    "url": "https://iitj.ac.in/cete/en/about-research",
+    "status": "success",
+    "chars": 10642
+  },
+  "crdsi": {
+    "url": "https://iitj.ac.in/crdsi/en/center-for-research-and-development-of-scientific-instruments",
+    "status": "too_short",
+    "chars": 43
+  },
+  "sustainability": {
+    "url": "https://iitj.ac.in/center-for-emerging-technologies-for-sustainable-development/en/about-sustainability-plan",
+    "status": "too_short",
+    "chars": 43
+  },
+  "techscape": {
+    "url": "https://iitj.ac.in/techscape/en/Techscape",
+    "status": "success",
+    "chars": 2963
+  },
+  "institute_repository": {
+    "url": "https://iitj.ac.in/Institute-Repository/en/Institute-Repository",
+    "status": "success",
+    "chars": 776
+  },
+  "faculty_members": {
+    "url": "https://iitj.ac.in/main/en/faculty-members",
+    "status": "success",
+    "chars": 1641
+  },
+  "adjunct_faculty": {
+    "url": "https://iitj.ac.in/main/en/adjunct-faculty-members",
+    "status": "success",
+    "chars": 1557
+  },
+  "visiting_faculty": {
+    "url": "https://iitj.ac.in/main/en/visiting-faculty-members",
+    "status": "success",
+    "chars": 1529
+  },
+  "scholars_residence": {
+    "url": "https://iitj.ac.in/main/en/scholars-in-residence",
+    "status": "success",
+    "chars": 1718
+  },
+  "faculty_positions": {
+    "url": "https://iitj.ac.in/faculty-positions/en/faculty-positions",
+    "status": "success",
+    "chars": 1907
+  },
+  "about_iitj": {
+    "url": "https://iitj.ac.in/main/en/iitj",
+    "status": "too_short",
+    "chars": 29
+  },
+  "institute": {
+    "url": "https://iitj.ac.in/Main/en/Institute",
+    "status": "too_short",
+    "chars": 43
+  },
+  "director": {
+    "url": "https://iitj.ac.in/main/en/director",
+    "status": "success",
+    "chars": 5312
+  },
+  "chairman": {
+    "url": "https://iitj.ac.in/main/en/chairman",
+    "status": "success",
+    "chars": 4151
+  },
+  "about_director": {
+    "url": "https://iitj.ac.in/office-of-director/en/about-director",
+    "status": "success",
+    "chars": 5294
+  },
+  "campus_life": {
+    "url": "https://iitj.ac.in/office-of-students/en/Campus-Life",
+    "status": "success",
+    "chars": 1981
+  },
+  "office_students": {
+    "url": "https://iitj.ac.in/office-of-students/en/office-of-students",
+    "status": "success",
+    "chars": 4131
+  },
+  "news": {
+    "url": "https://iitj.ac.in/main/en/Latest-News",
+    "status": "too_short",
+    "chars": 43
+  },
+  "announcements": {
+    "url": "https://iitj.ac.in/main/en/Announcements",
+    "status": "too_short",
+    "chars": 43
+  },
+  "events": {
+    "url": "https://iitj.ac.in/main/en/Events",
+    "status": "success",
+    "chars": 1525
+  },
+  "schools": {
+    "url": "https://iitj.ac.in/schools/",
+    "status": "too_short",
+    "chars": 19
+  },
+  "school_sme": {
+    "url": "https://iitj.ac.in/schools/en/School-of-Management-&-Entrepreneurship",
+    "status": "too_short",
+    "chars": 19
+  },
+  "school_liberal_arts": {
+    "url": "https://iitj.ac.in/school-of-liberal-arts/en/academic-outreach",
+    "status": "too_short",
+    "chars": 43
+  },
+  "school_coe_ip": {
+    "url": "https://iitj.ac.in/schools/en/about-coe-ip",
+    "status": "success",
+    "chars": 5117
+  },
+  "library": {
+    "url": "https://iitj.ac.in/library/en/About-Discover-Resources",
+    "status": "too_short",
+    "chars": 43
+  },
+  "library_srrlh": {
+    "url": "https://iitj.ac.in/library/en/About-SRRLH",
+    "status": "too_short",
+    "chars": 43
+  },
+  "technology_policy": {
+    "url": "https://iitj.ac.in/center-for-technology-foresight-and-policy/en/about-us",
+    "status": "success",
+    "chars": 2993
+  },
+  "digital_infra": {
+    "url": "https://iitj.ac.in/digital-infrastructure-automation/en/About-Digital-Infrastructure-Automation",
+    "status": "too_short",
+    "chars": 43
+  }
+}

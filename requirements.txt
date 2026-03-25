@@ -1,0 +1,10 @@
+requests
+beautifulsoup4
+gensim
+nltk
+wordcloud
+matplotlib
+scikit-learn
+numpy
+pandas
+PyPDF2

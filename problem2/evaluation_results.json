@@ -1,0 +1,230 @@
+{
+  "Vanilla RNN": {
+    "metrics": {
+      "total_generated": 500,
+      "novel_count": 123,
+      "novelty_rate": 24.6,
+      "unique_count": 402,
+      "diversity": 80.4
+    },
+    "failures": {
+      "too_short": {
+        "count": 0,
+        "examples": []
+      },
+      "too_long": {
+        "count": 0,
+        "examples": []
+      },
+      "repetitive": {
+        "count": 3,
+        "examples": [
+          "Sugravanan",
+          "Manan",
+          "Dhahar"
+        ]
+      },
+      "nonsense": {
+        "count": 0,
+        "examples": []
+      },
+      "no_vowels": {
+        "count": 0,
+        "examples": []
+      }
+    },
+    "samples": [
+      "Chaitanya",
+      "Bhui",
+      "Bhaina",
+      "Pashay",
+      "Namit",
+      "Sahan",
+      "Sakar",
+      "Vasuki",
+      "Shubh",
+      "Devi",
+      "Karan",
+      "Varin",
+      "Parvathi",
+      "Hivan",
+      "Darshana",
+      "Balhar",
+      "Adtika",
+      "Parineeti",
+      "Swati",
+      "Kimaya",
+      "Manik",
+      "Aibha",
+      "Jayant",
+      "Athok",
+      "Kiman",
+      "Gowri",
+      "Meet",
+      "Manit",
+      "Aniari",
+      "Anikar"
+    ],
+    "parameters": 61393
+  },
+  "Bidirectional LSTM": {
+    "metrics": {
+      "total_generated": 500,
+      "novel_count": 500,
+      "novelty_rate": 100.0,
+      "unique_count": 488,
+      "diversity": 97.6
+    },
+    "failures": {
+      "too_short": {
+        "count": 5,
+        "examples": [
+          "Y",
+          "O",
+          "Y",
+          "T",
+          "O"
+        ]
+      },
+      "too_long": {
+        "count": 0,
+        "examples": []
+      },
+      "repetitive": {
+        "count": 4,
+        "examples": [
+          "Yososd",
+          "Fusus",
+          "Udswsw",
+          "Cososc"
+        ]
+      },
+      "nonsense": {
+        "count": 0,
+        "examples": []
+      },
+      "no_vowels": {
+        "count": 25,
+        "examples": [
+          "Chws",
+          "Hhycb",
+          "Slcss",
+          "Y",
+          "Kwcp"
+        ]
+      }
+    },
+    "samples": [
+      "Ojw",
+      "Objs",
+      "Yegi",
+      "Udcd",
+      "Hgoy",
+      "Gokgs",
+      "Yotas",
+      "Tookst",
+      "Zoskcs",
+      "Yehdt",
+      "Cosss",
+      "Cidg",
+      "Cedo",
+      "Ucjs",
+      "Cocsu",
+      "Odjok",
+      "Hzodo",
+      "Esysot",
+      "Uddasi",
+      "Zozos",
+      "Hocs",
+      "Radd",
+      "Zuydas",
+      "Askw",
+      "Cyoddu",
+      "Usdsak",
+      "Yodke",
+      "Yecsk",
+      "Zahd",
+      "Uscs"
+    ],
+    "parameters": 442193
+  },
+  "RNN + Attention": {
+    "metrics": {
+      "total_generated": 500,
+      "novel_count": 500,
+      "novelty_rate": 100.0,
+      "unique_count": 500,
+      "diversity": 100.0
+    },
+    "failures": {
+      "too_short": {
+        "count": 2,
+        "examples": [
+          "V",
+          "H"
+        ]
+      },
+      "too_long": {
+        "count": 0,
+        "examples": []
+      },
+      "repetitive": {
+        "count": 15,
+        "examples": [
+          "KRYAkSVNVNRFHOI",
+          "SSNSNRnRVRMBTAi",
+          "SASTSTTLATkVVkJ",
+          "RPMAiRSPSPGASAv",
+          "SURigJSSKTSTSSN"
+        ]
+      },
+      "nonsense": {
+        "count": 0,
+        "examples": []
+      },
+      "no_vowels": {
+        "count": 84,
+        "examples": [
+          "VSSRRLMRMTSsPTk",
+          "NTJMT",
+          "SSKJKcV",
+          "SDRJ",
+          "NSSRbK"
+        ]
+      }
+    },
+    "samples": [
+      "SBRkAkKVagyceSS",
+      "KDKVKSPRPSGNSMR",
+      "CAGOTGuB",
+      "NSSBSPhPEUBmPTC",
+      "MSSSTSSFuVJKLVr",
+      "CVRVYMARSAmTRSM",
+      "SNDTSKkVjVKPSOr",
+      "CCNNkmTSMSMPhAt",
+      "RGSSDJIDDpNYRJT",
+      "TSTLRUJOSSTTTSG",
+      "ASVHgFPPbKSVTSD",
+      "NPIIdTPSCTJRSvM",
+      "VRAgwNeSJhSTISB",
+      "BSNPSSBKSGHUMAb",
+      "DPVRNTsSAiiauyS",
+      "AIiTLRSSLAhDTDR",
+      "SSNSNRnRVRMBTAi",
+      "BAHmEmUTSMGOABK",
+      "MRSMPmtNhVItHUA",
+      "JARCPhvjVSSORKS",
+      "MAJAiMRSPVYSTJS",
+      "SSVhAkbUkHcHTRT",
+      "TAkSDhBPi",
+      "SSTRnhSimMCHSSM",
+      "CSCA",
+      "RPSAPTGUNSiwSTS",
+      "AAiNROPPPsUhDSS",
+      "ADAgTKSVkdFuuMP",
+      "AODCDDSaNpyNHyU",
+      "RPPhP"
+    ],
+    "parameters": 271185
+  }
+}

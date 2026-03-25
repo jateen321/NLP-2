@@ -1,0 +1,89 @@
+{
+  "total_documents": 36,
+  "total_sentences": 1058,
+  "total_tokens": 25964,
+  "vocabulary_size": 3547,
+  "avg_sentence_length": 24.54,
+  "top_20_words": [
+    {
+      "word": "the",
+      "count": 1552
+    },
+    {
+      "word": "of",
+      "count": 1088
+    },
+    {
+      "word": "and",
+      "count": 773
+    },
+    {
+      "word": "to",
+      "count": 640
+    },
+    {
+      "word": "for",
+      "count": 542
+    },
+    {
+      "word": "in",
+      "count": 482
+    },
+    {
+      "word": "a",
+      "count": 468
+    },
+    {
+      "word": "be",
+      "count": 295
+    },
+    {
+      "word": "student",
+      "count": 238
+    },
+    {
+      "word": "by",
+      "count": 232
+    },
+    {
+      "word": "is",
+      "count": 210
+    },
+    {
+      "word": "students",
+      "count": 179
+    },
+    {
+      "word": "will",
+      "count": 173
+    },
+    {
+      "word": "academic",
+      "count": 164
+    },
+    {
+      "word": "or",
+      "count": 163
+    },
+    {
+      "word": "on",
+      "count": 154
+    },
+    {
+      "word": "with",
+      "count": 148
+    },
+    {
+      "word": "course",
+      "count": 148
+    },
+    {
+      "word": "jodhpur",
+      "count": 146
+    },
+    {
+      "word": "at",
+      "count": 140
+    }
+  ]
+}

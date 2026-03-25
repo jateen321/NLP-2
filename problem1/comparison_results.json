@@ -1,0 +1,678 @@
+{
+  "neighbors": {
+    "research": {
+      "Scratch_CBOW": [
+        [
+          "advancements",
+          0.6817784905433655
+        ],
+        [
+          "interdisciplinary",
+          0.6756769418716431
+        ],
+        [
+          "'s",
+          0.6273793578147888
+        ],
+        [
+          "drive",
+          0.6162067651748657
+        ],
+        [
+          "maintaining",
+          0.6141166090965271
+        ]
+      ],
+      "Gensim_CBOW": [
+        {
+          "word": "image",
+          "sim": 0.9774
+        },
+        {
+          "word": "journal",
+          "sim": 0.9749
+        },
+        {
+          "word": "space",
+          "sim": 0.9747
+        },
+        {
+          "word": "management",
+          "sim": 0.9719
+        },
+        {
+          "word": "techscape",
+          "sim": 0.9686
+        }
+      ],
+      "Scratch_SkipGram": [
+        [
+          "image",
+          0.45195233821868896
+        ],
+        [
+          "proposal",
+          0.4328339397907257
+        ],
+        [
+          "26.3",
+          0.41427403688430786
+        ],
+        [
+          "technopark",
+          0.40805718302726746
+        ],
+        [
+          "shukla",
+          0.39992567896842957
+        ]
+      ],
+      "Gensim_SkipGram": [
+        {
+          "word": "proposal",
+          "sim": 0.8383
+        },
+        {
+          "word": "areas",
+          "sim": 0.8246
+        },
+        {
+          "word": "interdisciplinary",
+          "sim": 0.8224
+        },
+        {
+          "word": "development",
+          "sim": 0.7894
+        },
+        {
+          "word": "26.3",
+          "sim": 0.7799
+        }
+      ]
+    },
+    "student": {
+      "Scratch_CBOW": [
+        [
+          "provisional",
+          0.7053858041763306
+        ],
+        [
+          "allowed",
+          0.7025434374809265
+        ],
+        [
+          "refer",
+          0.6894731521606445
+        ],
+        [
+          "railways",
+          0.6802973747253418
+        ],
+        [
+          "who",
+          0.6737425923347473
+        ]
+      ],
+      "Gensim_CBOW": [
+        {
+          "word": "spend",
+          "sim": 0.9858
+        },
+        {
+          "word": "admitted",
+          "sim": 0.984
+        },
+        {
+          "word": "course",
+          "sim": 0.9813
+        },
+        {
+          "word": "may",
+          "sim": 0.9799
+        },
+        {
+          "word": "who",
+          "sim": 0.9774
+        }
+      ],
+      "Scratch_SkipGram": [
+        [
+          "dual-degree",
+          0.3957451581954956
+        ],
+        [
+          "carry",
+          0.3837623596191406
+        ],
+        [
+          "fulfilled",
+          0.3743079602718353
+        ],
+        [
+          "terminated",
+          0.3656890094280243
+        ],
+        [
+          "running",
+          0.3633340001106262
+        ]
+      ],
+      "Gensim_SkipGram": [
+        {
+          "word": "candidate",
+          "sim": 0.8804
+        },
+        {
+          "word": "assistantship",
+          "sim": 0.8525
+        },
+        {
+          "word": "advise",
+          "sim": 0.8492
+        },
+        {
+          "word": "until",
+          "sim": 0.8464
+        },
+        {
+          "word": "visiting",
+          "sim": 0.8458
+        }
+      ]
+    },
+    "phd": {
+      "Scratch_CBOW": [
+        [
+          "mtech",
+          0.8418306112289429
+        ],
+        [
+          "22.6",
+          0.6450780630111694
+        ],
+        [
+          "m.tech./m.tech.-ph.d.",
+          0.6140233874320984
+        ],
+        [
+          "dual",
+          0.6026014089584351
+        ],
+        [
+          "governing",
+          0.5612372159957886
+        ]
+      ],
+      "Gensim_CBOW": [
+        {
+          "word": "cr",
+          "sim": 0.9899
+        },
+        {
+          "word": "22.5",
+          "sim": 0.9876
+        },
+        {
+          "word": "compulsory",
+          "sim": 0.9857
+        },
+        {
+          "word": "=0",
+          "sim": 0.9851
+        },
+        {
+          "word": "residence",
+          "sim": 0.9838
+        }
+      ],
+      "Scratch_SkipGram": [
+        [
+          "mtech",
+          0.56535804271698
+        ],
+        [
+          "college",
+          0.4733928442001343
+        ],
+        [
+          "shortlisted",
+          0.47060534358024597
+        ],
+        [
+          "round",
+          0.4482311010360718
+        ],
+        [
+          "m.tech-ph.d",
+          0.448054701089859
+        ]
+      ],
+      "Gensim_SkipGram": [
+        {
+          "word": "mtech",
+          "sim": 0.9549
+        },
+        {
+          "word": "22.6",
+          "sim": 0.9113
+        },
+        {
+          "word": "different",
+          "sim": 0.9004
+        },
+        {
+          "word": "=0",
+          "sim": 0.8919
+        },
+        {
+          "word": "cr",
+          "sim": 0.8911
+        }
+      ]
+    },
+    "examination": {
+      "Scratch_CBOW": [
+        [
+          "missed",
+          0.7625524997711182
+        ],
+        [
+          "report",
+          0.7063758373260498
+        ],
+        [
+          "submit",
+          0.7027726173400879
+        ],
+        [
+          "viva-voce",
+          0.6932992935180664
+        ],
+        [
+          "make-up",
+          0.6823023557662964
+        ]
+      ],
+      "Gensim_CBOW": [
+        {
+          "word": "report",
+          "sim": 0.974
+        },
+        {
+          "word": "will",
+          "sim": 0.9709
+        },
+        {
+          "word": "src",
+          "sim": 0.97
+        },
+        {
+          "word": "same",
+          "sim": 0.9663
+        },
+        {
+          "word": "viva-voce",
+          "sim": 0.9603
+        }
+      ],
+      "Scratch_SkipGram": [
+        [
+          "make-up",
+          0.4800795018672943
+        ],
+        [
+          "examinations",
+          0.4196106493473053
+        ],
+        [
+          "exams",
+          0.40368521213531494
+        ],
+        [
+          "chance",
+          0.40146827697753906
+        ],
+        [
+          "missing",
+          0.3872377872467041
+        ]
+      ],
+      "Gensim_SkipGram": [
+        {
+          "word": "comprehensive",
+          "sim": 0.8886
+        },
+        {
+          "word": "viva-voce",
+          "sim": 0.8656
+        },
+        {
+          "word": "make-up",
+          "sim": 0.8343
+        },
+        {
+          "word": "examiners",
+          "sim": 0.8339
+        },
+        {
+          "word": "examinations",
+          "sim": 0.8258
+        }
+      ]
+    },
+    "engineering": {
+      "Scratch_CBOW": [
+        [
+          "computer",
+          0.9383084774017334
+        ],
+        [
+          "metallurgical",
+          0.9195069074630737
+        ],
+        [
+          "electrical",
+          0.9133027791976929
+        ],
+        [
+          "materials",
+          0.9020630121231079
+        ],
+        [
+          "bioscience",
+          0.8974494934082031
+        ]
+      ],
+      "Gensim_CBOW": [
+        {
+          "word": "science",
+          "sim": 0.9666
+        },
+        {
+          "word": "computer",
+          "sim": 0.9581
+        },
+        {
+          "word": "intelligence",
+          "sim": 0.9506
+        },
+        {
+          "word": "metallurgical",
+          "sim": 0.9489
+        },
+        {
+          "word": "electrical",
+          "sim": 0.9473
+        }
+      ],
+      "Scratch_SkipGram": [
+        [
+          "metallurgical",
+          0.6066604852676392
+        ],
+        [
+          "bridge",
+          0.5934649705886841
+        ],
+        [
+          "bioengineering",
+          0.570000171661377
+        ],
+        [
+          "electrical",
+          0.5623279809951782
+        ],
+        [
+          "bhatnagar",
+          0.558477520942688
+        ]
+      ],
+      "Gensim_SkipGram": [
+        {
+          "word": "metallurgical",
+          "sim": 0.9604
+        },
+        {
+          "word": "bioengineering",
+          "sim": 0.9587
+        },
+        {
+          "word": "materials",
+          "sim": 0.9536
+        },
+        {
+          "word": "computer",
+          "sim": 0.9527
+        },
+        {
+          "word": "bioscience",
+          "sim": 0.9507
+        }
+      ]
+    }
+  },
+  "analogies": {
+    "UG : B.Tech :: PG : ?": {
+      "Scratch_CBOW": [
+        [
+          "academic",
+          0.5862568843690839
+        ],
+        [
+          "termination",
+          0.5510848343533773
+        ],
+        [
+          "consecutive",
+          0.5304929128688488
+        ],
+        [
+          "11.6",
+          0.5158747696040862
+        ],
+        [
+          "phd",
+          0.5056489553782324
+        ]
+      ],
+      "Gensim_CBOW": [
+        {
+          "word": "undergraduate",
+          "sim": 0.9801
+        },
+        {
+          "word": "postgraduate",
+          "sim": 0.9798
+        },
+        {
+          "word": "rules",
+          "sim": 0.9787
+        }
+      ],
+      "Scratch_SkipGram": [
+        [
+          "11.5",
+          0.42480623876190476
+        ],
+        [
+          "20.4",
+          0.4107927831042697
+        ],
+        [
+          "masters",
+          0.3848268389033413
+        ],
+        [
+          "21.6",
+          0.38076317347607497
+        ],
+        [
+          "semester/summer",
+          0.3788462867390071
+        ]
+      ],
+      "Gensim_SkipGram": [
+        {
+          "word": "amendments",
+          "sim": 0.8791
+        },
+        {
+          "word": "undergraduate",
+          "sim": 0.851
+        },
+        {
+          "word": "postgraduate",
+          "sim": 0.8484
+        }
+      ]
+    },
+    "student : learning :: faculty : ?": {
+      "Scratch_CBOW": [
+        [
+          "creating",
+          0.5735670554905687
+        ],
+        [
+          "online",
+          0.5561827727726282
+        ],
+        [
+          "immersive",
+          0.5373419545719288
+        ],
+        [
+          "larger",
+          0.5245210680808318
+        ],
+        [
+          "development",
+          0.5230435310262981
+        ]
+      ],
+      "Gensim_CBOW": [
+        {
+          "word": "international",
+          "sim": 0.969
+        },
+        {
+          "word": "de",
+          "sim": 0.9656
+        },
+        {
+          "word": "center",
+          "sim": 0.9614
+        }
+      ],
+      "Scratch_SkipGram": [
+        [
+          "immersive",
+          0.43875708014684034
+        ],
+        [
+          "online",
+          0.42907262580076644
+        ],
+        [
+          "experiential",
+          0.3976689293777963
+        ],
+        [
+          "distance",
+          0.39396296862776237
+        ],
+        [
+          "reality",
+          0.3787909080957724
+        ]
+      ],
+      "Gensim_SkipGram": [
+        {
+          "word": "online",
+          "sim": 0.7199
+        },
+        {
+          "word": "conference",
+          "sim": 0.7005
+        },
+        {
+          "word": "international",
+          "sim": 0.6834
+        }
+      ]
+    },
+    "semester : examination :: thesis : ?": {
+      "Scratch_CBOW": [
+        [
+          "submit",
+          0.6230380598828061
+        ],
+        [
+          "defend",
+          0.6087312842968015
+        ],
+        [
+          "synopsis",
+          0.6008295413812308
+        ],
+        [
+          "present",
+          0.5926695049589239
+        ],
+        [
+          "pre-synopsis",
+          0.5833099439077438
+        ]
+      ],
+      "Gensim_CBOW": [
+        {
+          "word": "src",
+          "sim": 0.9553
+        },
+        {
+          "word": "reported",
+          "sim": 0.9477
+        },
+        {
+          "word": "dugc",
+          "sim": 0.945
+        }
+      ],
+      "Scratch_SkipGram": [
+        [
+          "defense",
+          0.4218022927275788
+        ],
+        [
+          "make-up",
+          0.380810123027389
+        ],
+        [
+          "ph",
+          0.3541345687199651
+        ],
+        [
+          "defend",
+          0.3525429601205083
+        ],
+        [
+          "best",
+          0.3315269011961512
+        ]
+      ],
+      "Gensim_SkipGram": [
+        {
+          "word": "report",
+          "sim": 0.7333
+        },
+        {
+          "word": "comprehensive",
+          "sim": 0.7326
+        },
+        {
+          "word": "examiners",
+          "sim": 0.732
+        }
+      ]
+    }
+  }
+}

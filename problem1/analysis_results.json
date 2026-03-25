@@ -1,0 +1,486 @@
+{
+  "nearest_neighbors": {
+    "research": {
+      "CBOW": [
+        {
+          "word": "image",
+          "similarity": 0.9774
+        },
+        {
+          "word": "journal",
+          "similarity": 0.9749
+        },
+        {
+          "word": "space",
+          "similarity": 0.9747
+        },
+        {
+          "word": "management",
+          "similarity": 0.9719
+        },
+        {
+          "word": "techscape",
+          "similarity": 0.9686
+        }
+      ],
+      "SkipGram": [
+        {
+          "word": "proposal",
+          "similarity": 0.8383
+        },
+        {
+          "word": "areas",
+          "similarity": 0.8246
+        },
+        {
+          "word": "interdisciplinary",
+          "similarity": 0.8224
+        },
+        {
+          "word": "development",
+          "similarity": 0.7894
+        },
+        {
+          "word": "26.3",
+          "similarity": 0.7799
+        }
+      ]
+    },
+    "student": {
+      "CBOW": [
+        {
+          "word": "spend",
+          "similarity": 0.9858
+        },
+        {
+          "word": "admitted",
+          "similarity": 0.984
+        },
+        {
+          "word": "course",
+          "similarity": 0.9813
+        },
+        {
+          "word": "may",
+          "similarity": 0.9799
+        },
+        {
+          "word": "who",
+          "similarity": 0.9774
+        }
+      ],
+      "SkipGram": [
+        {
+          "word": "candidate",
+          "similarity": 0.8804
+        },
+        {
+          "word": "assistantship",
+          "similarity": 0.8525
+        },
+        {
+          "word": "advise",
+          "similarity": 0.8492
+        },
+        {
+          "word": "until",
+          "similarity": 0.8464
+        },
+        {
+          "word": "visiting",
+          "similarity": 0.8458
+        }
+      ]
+    },
+    "phd": {
+      "CBOW": [
+        {
+          "word": "cr",
+          "similarity": 0.9899
+        },
+        {
+          "word": "22.5",
+          "similarity": 0.9876
+        },
+        {
+          "word": "compulsory",
+          "similarity": 0.9857
+        },
+        {
+          "word": "=0",
+          "similarity": 0.9851
+        },
+        {
+          "word": "residence",
+          "similarity": 0.9838
+        }
+      ],
+      "SkipGram": [
+        {
+          "word": "mtech",
+          "similarity": 0.9549
+        },
+        {
+          "word": "22.6",
+          "similarity": 0.9113
+        },
+        {
+          "word": "different",
+          "similarity": 0.9004
+        },
+        {
+          "word": "=0",
+          "similarity": 0.8919
+        },
+        {
+          "word": "cr",
+          "similarity": 0.8911
+        }
+      ]
+    },
+    "examination": {
+      "CBOW": [
+        {
+          "word": "report",
+          "similarity": 0.974
+        },
+        {
+          "word": "will",
+          "similarity": 0.9709
+        },
+        {
+          "word": "src",
+          "similarity": 0.97
+        },
+        {
+          "word": "same",
+          "similarity": 0.9663
+        },
+        {
+          "word": "viva-voce",
+          "similarity": 0.9603
+        }
+      ],
+      "SkipGram": [
+        {
+          "word": "comprehensive",
+          "similarity": 0.8886
+        },
+        {
+          "word": "viva-voce",
+          "similarity": 0.8656
+        },
+        {
+          "word": "make-up",
+          "similarity": 0.8343
+        },
+        {
+          "word": "examiners",
+          "similarity": 0.8339
+        },
+        {
+          "word": "examinations",
+          "similarity": 0.8258
+        }
+      ]
+    },
+    "engineering": {
+      "CBOW": [
+        {
+          "word": "science",
+          "similarity": 0.9666
+        },
+        {
+          "word": "computer",
+          "similarity": 0.9581
+        },
+        {
+          "word": "intelligence",
+          "similarity": 0.9506
+        },
+        {
+          "word": "metallurgical",
+          "similarity": 0.9489
+        },
+        {
+          "word": "electrical",
+          "similarity": 0.9473
+        }
+      ],
+      "SkipGram": [
+        {
+          "word": "metallurgical",
+          "similarity": 0.9604
+        },
+        {
+          "word": "bioengineering",
+          "similarity": 0.9587
+        },
+        {
+          "word": "materials",
+          "similarity": 0.9536
+        },
+        {
+          "word": "computer",
+          "similarity": 0.9527
+        },
+        {
+          "word": "bioscience",
+          "similarity": 0.9507
+        }
+      ]
+    }
+  },
+  "analogies": [
+    {
+      "description": "UG : B.Tech :: PG : ?",
+      "expected": "mtech / m.tech",
+      "results": {
+        "CBOW": [
+          {
+            "word": "undergraduate",
+            "similarity": 0.9801
+          },
+          {
+            "word": "postgraduate",
+            "similarity": 0.9798
+          },
+          {
+            "word": "rules",
+            "similarity": 0.9787
+          },
+          {
+            "word": "fulfillment",
+            "similarity": 0.9783
+          },
+          {
+            "word": "admission",
+            "similarity": 0.9751
+          }
+        ],
+        "SkipGram": [
+          {
+            "word": "amendments",
+            "similarity": 0.8791
+          },
+          {
+            "word": "undergraduate",
+            "similarity": 0.851
+          },
+          {
+            "word": "postgraduate",
+            "similarity": 0.8484
+          },
+          {
+            "word": "m.tech./m.sc._project",
+            "similarity": 0.8434
+          },
+          {
+            "word": "10.1",
+            "similarity": 0.839
+          }
+        ]
+      }
+    },
+    {
+      "description": "professor : teaching :: researcher : ?",
+      "expected": "publication/paper",
+      "results": {
+        "CBOW": [
+          {
+            "word": "else",
+            "similarity": 0.9841
+          },
+          {
+            "word": "refers",
+            "similarity": 0.9836
+          },
+          {
+            "word": "23.2",
+            "similarity": 0.981
+          },
+          {
+            "word": "orientation",
+            "similarity": 0.9802
+          },
+          {
+            "word": "24.2",
+            "similarity": 0.9802
+          }
+        ],
+        "SkipGram": [
+          {
+            "word": "4.1",
+            "similarity": 0.9094
+          },
+          {
+            "word": "14.1",
+            "similarity": 0.9091
+          },
+          {
+            "word": "10.1",
+            "similarity": 0.9079
+          },
+          {
+            "word": "leaves",
+            "similarity": 0.9013
+          },
+          {
+            "word": "12.4",
+            "similarity": 0.9012
+          }
+        ]
+      }
+    },
+    {
+      "description": "student : learning :: faculty : ?",
+      "expected": "teaching",
+      "results": {
+        "CBOW": [
+          {
+            "word": "international",
+            "similarity": 0.969
+          },
+          {
+            "word": "de",
+            "similarity": 0.9656
+          },
+          {
+            "word": "center",
+            "similarity": 0.9614
+          },
+          {
+            "word": "founded",
+            "similarity": 0.9566
+          },
+          {
+            "word": "national",
+            "similarity": 0.9557
+          }
+        ],
+        "SkipGram": [
+          {
+            "word": "online",
+            "similarity": 0.7199
+          },
+          {
+            "word": "conference",
+            "similarity": 0.7005
+          },
+          {
+            "word": "international",
+            "similarity": 0.6834
+          },
+          {
+            "word": "educational",
+            "similarity": 0.6633
+          },
+          {
+            "word": "staff",
+            "similarity": 0.6627
+          }
+        ]
+      }
+    },
+    {
+      "description": "semester : examination :: thesis : ?",
+      "expected": "defense/evaluation",
+      "results": {
+        "CBOW": [
+          {
+            "word": "src",
+            "similarity": 0.9553
+          },
+          {
+            "word": "reported",
+            "similarity": 0.9477
+          },
+          {
+            "word": "dugc",
+            "similarity": 0.945
+          },
+          {
+            "word": "supervisor",
+            "similarity": 0.9412
+          },
+          {
+            "word": "evaluation",
+            "similarity": 0.9403
+          }
+        ],
+        "SkipGram": [
+          {
+            "word": "report",
+            "similarity": 0.7333
+          },
+          {
+            "word": "comprehensive",
+            "similarity": 0.7326
+          },
+          {
+            "word": "examiners",
+            "similarity": 0.732
+          },
+          {
+            "word": "viva-voce",
+            "similarity": 0.73
+          },
+          {
+            "word": "evaluation",
+            "similarity": 0.7143
+          }
+        ]
+      }
+    },
+    {
+      "description": "phd : thesis :: mtech : ?",
+      "expected": "project/dissertation",
+      "results": {
+        "CBOW": [
+          {
+            "word": "regular",
+            "similarity": 0.9739
+          },
+          {
+            "word": "full-time",
+            "similarity": 0.9717
+          },
+          {
+            "word": "ph.d.",
+            "similarity": 0.9713
+          },
+          {
+            "word": "terminated",
+            "similarity": 0.9672
+          },
+          {
+            "word": "admitted",
+            "similarity": 0.9672
+          }
+        ],
+        "SkipGram": [
+          {
+            "word": "submission",
+            "similarity": 0.828
+          },
+          {
+            "word": "coordinator",
+            "similarity": 0.828
+          },
+          {
+            "word": "defense",
+            "similarity": 0.8079
+          },
+          {
+            "word": "appropriate",
+            "similarity": 0.8063
+          },
+          {
+            "word": "reject",
+            "similarity": 0.8028
+          }
+        ]
+      }
+    }
+  ]
+}
