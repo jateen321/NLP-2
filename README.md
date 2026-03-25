@@ -1,5 +1,5 @@
 # NLP Assignment 2: Word Embeddings & Name Generation
-**Course:** NLP (IIT Jodhpur)  
+**Course:** NLU 
 **Student:** Jateen (B22CS026)
 
 ## Project Structure
