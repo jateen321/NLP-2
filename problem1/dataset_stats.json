@@ -1,89 +1,89 @@
 {
-  "total_documents": 36,
-  "total_sentences": 1058,
-  "total_tokens": 25964,
-  "vocabulary_size": 3547,
-  "avg_sentence_length": 24.54,
+  "total_documents": 50,
+  "total_sentences": 5228,
+  "total_tokens": 153804,
+  "vocabulary_size": 15822,
+  "avg_sentence_length": 29.42,
   "top_20_words": [
     {
       "word": "the",
-      "count": 1552
+      "count": 6154
     },
     {
       "word": "of",
-      "count": 1088
+      "count": 4758
     },
     {
       "word": "and",
-      "count": 773
-    },
-    {
-      "word": "to",
-      "count": 640
-    },
-    {
-      "word": "for",
-      "count": 542
+      "count": 4423
     },
     {
       "word": "in",
-      "count": 482
+      "count": 2181
+    },
+    {
+      "word": "to",
+      "count": 2174
+    },
+    {
+      "word": "for",
+      "count": 1805
     },
     {
       "word": "a",
-      "count": 468
+      "count": 1677
     },
     {
-      "word": "be",
-      "count": 295
+      "word": "ug",
+      "count": 1014
     },
     {
-      "word": "student",
-      "count": 238
-    },
-    {
-      "word": "by",
-      "count": 232
-    },
-    {
-      "word": "is",
-      "count": 210
+      "word": "iit",
+      "count": 951
     },
     {
       "word": "students",
-      "count": 179
+      "count": 951
     },
     {
-      "word": "will",
-      "count": 173
-    },
-    {
-      "word": "academic",
-      "count": 164
-    },
-    {
-      "word": "or",
-      "count": 163
+      "word": "ds",
+      "count": 862
     },
     {
       "word": "on",
-      "count": 154
+      "count": 758
     },
     {
       "word": "with",
-      "count": 148
+      "count": 754
     },
     {
-      "word": "course",
-      "count": 148
+      "word": "kumar",
+      "count": 684
+    },
+    {
+      "word": "is",
+      "count": 622
+    },
+    {
+      "word": "vksj",
+      "count": 611
+    },
+    {
+      "word": "by",
+      "count": 596
+    },
+    {
+      "word": "dr.",
+      "count": 586
     },
     {
       "word": "jodhpur",
-      "count": 146
+      "count": 582
     },
     {
-      "word": "at",
-      "count": 140
+      "word": "esa",
+      "count": 572
     }
   ]
 }
