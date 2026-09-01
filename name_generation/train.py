@@ -5,13 +5,13 @@ Trains Vanilla RNN, BLSTM, and RNN+Attention models for
 character-level name generation.
 
 Usage:
-    python problem2/train.py
+    python name_generation/train.py
 
 Output:
-    problem2/checkpoints/vanilla_rnn.pt
-    problem2/checkpoints/blstm.pt
-    problem2/checkpoints/attention_rnn.pt
-    problem2/figures/training_loss.png
+    name_generation/checkpoints/vanilla_rnn.pt
+    name_generation/checkpoints/blstm.pt
+    name_generation/checkpoints/attention_rnn.pt
+    name_generation/figures/training_loss.png
 """
 
 import os

@@ -7,14 +7,14 @@ Generates names from all trained models and computes:
 - Representative samples and failure mode analysis
 
 Usage:
-    python problem2/evaluate.py
+    python name_generation/evaluate.py
 
 Output:
-    problem2/generated_vanilla_rnn.txt
-    problem2/generated_blstm.txt
-    problem2/generated_attention_rnn.txt
-    problem2/evaluation_results.json
-    problem2/figures/evaluation_comparison.png
+    name_generation/generated_vanilla_rnn.txt
+    name_generation/generated_blstm.txt
+    name_generation/generated_attention_rnn.txt
+    name_generation/evaluation_results.json
+    name_generation/figures/evaluation_comparison.png
 """
 
 import os

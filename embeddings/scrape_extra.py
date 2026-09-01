@@ -10,7 +10,7 @@ Scrapes:
 Extracts text from PDFs using PyPDF2, saves raw text files.
 
 Usage:
-    python problem1/scrape_extra.py
+    python embeddings/scrape_extra.py
 """
 
 import os, re, time, requests

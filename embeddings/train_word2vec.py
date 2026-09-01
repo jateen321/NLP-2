@@ -11,11 +11,11 @@ Experiments:
 - Negative samples: 5, 10
 
 Usage:
-    python problem1/train_word2vec.py
+    python embeddings/train_word2vec.py
 
 Output:
-    problem1/models/             — saved Word2Vec models
-    problem1/experiment_results.csv — hyperparameter experiment table
+    embeddings/models/             — saved Word2Vec models
+    embeddings/experiment_results.csv — hyperparameter experiment table
 """
 
 import os

@@ -10,10 +10,10 @@ Scrapes textual data from IIT Jodhpur official website across multiple categorie
 6. News and announcements
 
 Usage:
-    python problem1/scraper.py
+    python embeddings/scraper.py
     
 Output:
-    problem1/raw/*.txt  — one text file per scraped page
+    embeddings/raw/*.txt  — one text file per scraped page
 """
 
 import os

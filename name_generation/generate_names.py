@@ -1,14 +1,25 @@
 """
-generate_names.py - Generate 1000 Indian Names
-================================================
-Generates a diverse dataset of 1000 Indian names from common
-first name components across different regions and genders.
+generate_names.py - Build the 1,000-name training dataset
+==========================================================
+
+IMPORTANT — dataset provenance:
+This dataset is PROGRAMMATICALLY ASSEMBLED, not scraped or downloaded from
+an external source. Names are drawn from curated lists of real Indian names
+spanning North Indian, South Indian, Bengali, Gujarati, Marathi, and
+pan-Indian pools, supplemented by names constructed from common Indian
+phoneme prefixes and suffixes. The random seed is fixed at 42, so the
+dataset is fully reproducible from this file alone.
+
+This is stated explicitly because it bounds what the Part 2 results mean:
+the models learn the phonotactics of this constructed distribution, not of
+a naturally occurring name corpus. The small, clean dataset is also what
+makes the capacity-data mismatch finding in RESULTS.md visible.
 
 Usage:
-    python problem2/generate_names.py
+    python name_generation/generate_names.py
 
 Output:
-    problem2/TrainingNames.txt  — one name per line
+    name_generation/TrainingNames.txt  - one name per line (1,000 unique names)
 """
 
 import random

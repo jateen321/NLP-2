@@ -7,15 +7,15 @@ Visualizes word embeddings using PCA and t-SNE:
 3. Color-codes words by semantic clusters
 
 Usage:
-    python problem1/visualize.py
+    python embeddings/visualize.py
 
 Output:
-    problem1/figures/pca_comparison.png
-    problem1/figures/tsne_comparison.png
-    problem1/figures/pca_cbow.png
-    problem1/figures/pca_skipgram.png
-    problem1/figures/tsne_cbow.png
-    problem1/figures/tsne_skipgram.png
+    embeddings/figures/pca_comparison.png
+    embeddings/figures/tsne_comparison.png
+    embeddings/figures/pca_cbow.png
+    embeddings/figures/pca_skipgram.png
+    embeddings/figures/tsne_cbow.png
+    embeddings/figures/tsne_skipgram.png
 """
 
 import os

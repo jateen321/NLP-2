@@ -7,11 +7,11 @@ Performs semantic analysis on trained Word2Vec models:
 3. Comparison between CBOW and Skip-gram models
 
 Usage:
-    python problem1/analysis.py
+    python embeddings/analysis.py
 
 Output:
     Prints formatted tables to stdout
-    Saves results to problem1/analysis_results.json
+    Saves results to embeddings/analysis_results.json
 """
 
 import os

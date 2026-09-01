@@ -1,10 +1,18 @@
+# Core
+torch
+numpy
+pandas
+
+# Part 1 — corpus collection & embeddings
 requests
 beautifulsoup4
 gensim
 nltk
-wordcloud
-matplotlib
+
+# Analysis & visualization
 scikit-learn
-numpy
-pandas
-PyPDF2
+matplotlib
+wordcloud
+
+# Tests
+pytest
