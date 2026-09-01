@@ -10,12 +10,12 @@ Architecture:
 - Negative Sampling: Efficient approximation of softmax
 
 Usage:
-    python problem1/word2vec_scratch.py
+    python embeddings/word2vec_scratch.py
 
 Output:
-    problem1/models/scratch_cbow.pt
-    problem1/models/scratch_skipgram.pt
-    problem1/comparison_results.json
+    embeddings/models/scratch_cbow.pt
+    embeddings/models/scratch_skipgram.pt
+    embeddings/comparison_results.json
 """
 
 import os

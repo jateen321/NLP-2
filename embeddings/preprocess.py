@@ -12,11 +12,11 @@ Steps:
 6. Generate dataset statistics and word cloud
 
 Usage:
-    python problem1/preprocess.py
+    python embeddings/preprocess.py
 
 Output:
-    problem1/corpus.txt           — cleaned corpus (one sentence per line)
-    problem1/figures/wordcloud.png — word cloud of most frequent words
+    embeddings/corpus.txt           — cleaned corpus (one sentence per line)
+    embeddings/figures/wordcloud.png — word cloud of most frequent words
 """
 
 import os
